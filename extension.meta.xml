@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="hostname" status="released" xmlns="http://symphonyextensions.com/schemas/extension/1.0/">
+	<name>Hostname</name>
+	<description>Get your local server IP address for development</description>
+	<repo type="github">https://github.com/pixelninja/hostname</repo>
+	<types>
+		<type>Productivity</type>
+		<type>Params</type>
+		<type>Frontend</type>
+	</types>
+	<authors>
+		<author>
+			<name github="pixelninja" symphony="touchstone">Phill Gray</name>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0" date='2016-07-04' min="2.4" />
+	</releases>
+</extension>
