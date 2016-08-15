@@ -14,7 +14,6 @@
 		</author>
 	</authors>
 	<releases>
-	<releases>
 		<release version="1.0" date="2016-07-04" min="2.4.x" max="2.x.x">
 			<![CDATA[
 - Initial release
